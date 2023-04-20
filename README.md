@@ -2,11 +2,13 @@
 ***
 
 ## Task
-Write a program called mastermind; it will be an implementation of the famous game.
+Write a program called my_mastermind; it will be an implementation of the famous game.
 
 ## Description
-Mastermind is a code-breaking game where the system generates a secret code (consisting of numbers) and the user/player attempts to guess the code.
-After each guess, the player receives feedback. The goal of the player is to determine the secret code by making the minimum number of guesses. The game ends when the guesser correctly guesses the secret code or when the maximum number of allowed guesses is reached.
+Mastermind is a code-breaking game where the system generates a secret code (consisting of numbers)
+and the user/player attempts to guess the code. After each guess, the player receives feedback.
+The goal of the player is to determine the secret code by making the minimum number of guesses.
+The game ends when the guesser correctly guesses the secret code or when the maximum number of allowed guesses is reached.
 
 ## Installation
 No Installation required according to the task.
